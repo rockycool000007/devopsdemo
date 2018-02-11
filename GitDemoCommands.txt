@@ -1,0 +1,12 @@
+git clone https://github.com/ashutoshjha1/devopsdemo
+vi file
+make changes and save
+git status
+git log
+git add filename (to add the file to staging area)
+git status
+git config —global user.email “username@email.com”
+git config —global user.name “UserNAme”
+git commit -m “commit message” filename 
+git pull origin master make sure Repo owner has added you as contributor to the repo
+git push origin master
