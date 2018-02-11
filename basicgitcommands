@@ -1,0 +1,8 @@
+git config --global user.email xxx@emial.com - Configure Git 
+git init - To create local repo 
+git clone xxx  - Check out a repo 
+git add <filename> - Add file Name 
+git commit - m "message" - to commit file 
+git push - to push 
+git status - For gettings status 
+
